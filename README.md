@@ -25,3 +25,5 @@ terraform.rc
 И директория
 **/.terraform/*
 
+
+Делаю коммит через IDE
