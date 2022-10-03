@@ -24,3 +24,4 @@ terraform.rc
 
 И директория
 **/.terraform/*
+
